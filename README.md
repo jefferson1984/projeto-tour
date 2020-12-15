@@ -1,12 +1,11 @@
-![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/jefferson1984/lembrete-aniversario/main)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/jefferson1984/
+projeto-tour /main)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jefferson1984/lembrete-aniversario)
+![GitHub repo size](https://img.shields.io/github/repo-size/jefferson1984/
+projeto-tour )
 
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/lembrete-aniversario)
-
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/
+projeto-tour )
 
 ## Projeto Tour.
 
@@ -18,9 +17,9 @@ useState useEffect e Condicional
 
 ## Imagem do Projeto
 
-[lembrete-aniversario.netlify.app](https://lembrete-aniversario.netlify.app/)
+[projeto-tour.netlify.app](https://projeto-tour.netlify.app/)
 
-<img src="https://github.com/jefferson1984/lembrete-aniversario/blob/main/lembrete2.png">
+<img src="https://github.com/jefferson1984/projeto-tour/blob/main/tour2.png">
 
 ## Reproduzir
 
