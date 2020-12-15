@@ -1,11 +1,6 @@
-![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/jefferson1984/
-projeto-tour /main)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-tour)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jefferson1984/
-projeto-tour )
-
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/
-projeto-tour )
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-tour)
 
 ## Projeto Tour.
 
